@@ -44,17 +44,14 @@ There are **three main dashboards**, each covering a key dimension of the projec
    ```  
 
 2. **Open Tableau**  
-   - Load the `.twb` or `.twbx` file from the repo.  
+   - Load the `.twbx` file from the repo.  
 
 3. **Interactive Navigation**  
    - The **home page** provides three buttons:  
      - **Layoffs** → opens the Layoff Dashboard  
      - **Visa Effect** → opens the Visa Effect Dashboard  
      - **Meta** → opens the Meta Journal Dashboard  
-   - Clicking each button takes you to its respective dashboard (as shown in the screenshots).  
-
-4. **Tableau Public (Optional)**  
-   - If published to Tableau Public, you can also access via a **direct link** (insert link here if available).  
+   - Clicking each button takes you to its respective dashboard.    
 
 ---
 
@@ -63,8 +60,7 @@ There are **three main dashboards**, each covering a key dimension of the projec
 - **Stock price charts** (e.g., Netflix trend line for 2023–2025).  
 - **Company comparisons** showing stock values and % change year-over-year.  
 - **Interactive filters** to switch between years (2023 vs 2024) or specific companies.  
-- **Colored markers**:  
-  - Green = approvals/positive stock change.  
+- **Colored markers**:    
   - Red = denials/negative growth.  
 - **Pie charts and bar graphs** highlighting distribution of visa approvals across companies.  
 - **Home navigation page** styled like a digital report cover (with clickable sections for Layoffs, Visa, Meta).  
@@ -86,7 +82,7 @@ There are **three main dashboards**, each covering a key dimension of the projec
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 - Tableau  
 - Python (for data preparation)  
 - Excel/CSV datasets  
