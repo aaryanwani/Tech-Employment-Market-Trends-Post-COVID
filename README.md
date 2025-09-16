@@ -40,7 +40,7 @@ There are **three main dashboards**, each covering a key dimension of the projec
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/The-Tech-Journal.git
+   [git clone https://github.com/your-username/The-Tech-Journal.git](https://github.com/aaryanwani/Tech-Employment-Market-Trends-Post-COVID.git)
    ```  
 
 2. **Open Tableau**  
